@@ -1,0 +1,8 @@
+# requirements
+numpy
+matplotlib
+os  
+pandas
+pickle 
+scipy 
+sodshock
